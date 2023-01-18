@@ -1,6 +1,6 @@
 .idea
 
-__pycache__/
+__pychache__/
 *.py[cod]
 
 # C extensions
